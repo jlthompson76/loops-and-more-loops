@@ -14,7 +14,7 @@ This exercise is to help you get comfortable with loops.
 
 3. Make a loop that counts by two, from 40 to 60. Alert the results with each integer and then the following text, "little monkeys sitting in a tree" in lowercase. Make sure to have the right spacing in the sentence and add line breaks between lines (add the string "\n" in between each value).
 
-4. Make a loop that counts backwards from 100 to 0, and prints out in the Console. At the end, console the length of he NOTE: Comment out the code from problem #1 and #2 when you run this code.
+4. Make a loop that counts backwards from 100 to 0, and prints out in the Console. NOTE: Comment out the code from problem #1 and #2 when you run this code.
 
 5. Make a loop that repeats a phrase a certain amount of times. Declare a variable called love and have it be a string that says, "Boston CodeSquad". Use the length of love to determine how many times this phrase should repeat. The phase should say, "I love JavaScript!" repeatedly.
    
