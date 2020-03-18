@@ -49,3 +49,22 @@ console.log(x);
 for(i = 0; i < x; i++) {
     console.log(`I love JavaScript!`);
 }
+
+// Bonus: Is it Odd or Even?
+// Write a JavaScript for loop that will iterate from 0 to 25. For each iteration, it will check if the current number is odd or even, and display a message to the screen.
+//
+// Your results should look like this:
+// "0 is even"
+// "1 is odd"
+// "2 is even"
+// ......
+
+console.log("Bonus: Is it Odd or Even?");
+for(let i = 0; i <= 25; i++) {
+    let messageBonus;
+    if (i % 2 === 0) {
+        messageBonus = `${i} is even`;
+    } else if (i % 2 != 0) {
+        messageBonus = `${i} is odd`;
+    } console.log(messageBonus);
+}
